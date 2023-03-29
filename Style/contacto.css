@@ -3,11 +3,7 @@
 *{
     font-family: alkatra;
 }
-/* body{
-    margin-left: 20px;
-    margin-right: 20px;
- 
-} */
+
 
 #orange{
     font-family: satisfy;
@@ -18,7 +14,6 @@
 
 }
 h1{
-    /* font-family: satisfy; */
     color: orange;
     font-size: 50px;
     text-align: left;
@@ -27,7 +22,6 @@ h1{
 }
 
 header{
-    /* display: flex; */
     padding-bottom: 20px;
     padding-left:70px ;
     padding-right: 70px;
@@ -48,7 +42,6 @@ nav a{
     border-radius: 5px;
     font-family: alkatra;
     color: chocolate;
-    /* margin-top: 150px; */
     text-align: right;
 }
 nav a:hover{
@@ -59,6 +52,20 @@ nav{
     display: flex;
     gap:10px;
     text-align: right;
+}
+
+div{
+    margin-left: 10px;
+}
+
+.form{
+    border: none;
+    border-style: outset;
+    margin-right: 76vw;
+    align-items: center;
+    display: flex;
+    margin-bottom: 5px;
+   
 }
 
 main{
